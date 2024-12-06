@@ -1,11 +1,5 @@
-
-<body>
-    <a href="https://www.linkedin.com/in/afsimsek/" target="_blank" class="ad-card">
-        <img src="https://raw.githubusercontent.com/Afsimsek25/javax.mail/main/adcard.gif" alt="Ad Card Image">
-    </a>
-</body>
-
 ## Javax.Mail ile Mail Operasyonları Otomasyonu
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/afsimsek/)
 Bu Class, Javax.Mail kütüphanesini kullanarak e-posta kutusuna bağlanma, belirli anahtar kelimeleri içeren e-postaları okuma ve silme işlemlerini gerçekleştirir.
 
 
@@ -287,4 +281,8 @@ public static void main(String[] args) {
 ```
 
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/afsimsek/)
+<body>
+    <a href="https://www.linkedin.com/in/afsimsek/" target="_blank" class="ad-card">
+        <img src="https://raw.githubusercontent.com/Afsimsek25/javax.mail/main/adcard.png" alt="Ad Card Image">
+    </a>
+</body>
