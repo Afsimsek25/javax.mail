@@ -1,7 +1,6 @@
 ## Javax.Mail ile Mail Operasyonları Otomasyonu
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/afsimsek/)
 Bu Class, Javax.Mail kütüphanesini kullanarak e-posta kutusuna bağlanma, belirli anahtar kelimeleri içeren e-postaları okuma ve silme işlemlerini gerçekleştirir.
-
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/afsimsek/)
 
 ## Teknolojiler
 - **Java**
