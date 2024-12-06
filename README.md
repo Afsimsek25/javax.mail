@@ -280,5 +280,9 @@ public static void main(String[] args) {
     }
 ```
 
-<img src="https://raw.githubusercontent.com/Afsimsek25/javax.mail/main/adcard.png" alt="Ad Card Image" width="500" height="500">
+<body>
+    <a href="https://www.linkedin.com/in/afsimsek/" target="_blank" class="ad-card">
+        <img src="https://raw.githubusercontent.com/Afsimsek25/javax.mail/main/addcard.png" alt="Ad Card Image">
+    </a>
+</body>
 
